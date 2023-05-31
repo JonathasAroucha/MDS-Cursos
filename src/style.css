@@ -1,0 +1,67 @@
+.width-card{
+  max-width: 18rem;
+}
+.image-carousel-one{
+  object-fit: cover;
+  object-position: 0 40%;
+  height: 600px;
+}
+.logomds{
+  width: 60px;
+  padding-right: 10px;
+}
+.image-carousel-two{
+  object-fit: cover;
+  height: 600px;
+}
+.font-title{
+  font-family: 'Changa', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.font-title-two{
+  font-family: 'Changa', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+}
+.text-color-logo{
+  color: #58B437!important;
+}
+.text-color-title{
+  color: #144D16!important;
+}
+.text-sub{
+  font-family: 'Poppins', sans-serif;
+}
+.button-color-especial{
+  background-color: #144D16;
+  color: #fff;
+  transition: background-color 1s;
+}
+.btn-hover:hover{
+  background-color: #146e17;
+  color: #fff;
+}
+.border-color-especial{
+  border-color: #144D16;
+}
+.card-position-image{
+  object-fit: cover;
+  object-position: 0 80%;
+  height: 200px;
+}
+.quemsomostext, .cardcursos{
+  max-width:950px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+.img-cursos{
+  max-width: 100%;
+  height: 15rem;
+  object-fit: cover;
+  object-position: 0 40%;
+}
+
